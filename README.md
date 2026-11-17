@@ -24,7 +24,7 @@ Tudo roda **na sua máquina**: os comentários não são enviados para nenhum se
 ## Como rodar (Windows / PowerShell)
 
 ```powershell
-git clone https://github.com/<seu-usuario>/dashboard-feedback-ia.git
+git clone https://github.com/budindavi/dashboard-feedback-ia.git
 cd dashboard-feedback-ia
 
 py -3 -m venv .venv
