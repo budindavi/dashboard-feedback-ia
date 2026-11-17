@@ -1,0 +1,14 @@
+# Ambiente virtual e cache do Python
+.venv/
+__pycache__/
+*.pyc
+
+# Configuração local do Claude Code
+.claude/
+
+# Streamlit local
+.streamlit/secrets.toml
+
+# Sistema
+.DS_Store
+Thumbs.db

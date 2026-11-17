@@ -1,0 +1,37 @@
+data;pedido;canal;nota;comentario
+2026-11-03;10231;iFood;5;A pizza chegou quentinha e muito saborosa. Entregador educado, recomendo!
+2026-11-03;10232;iFood;2;Demorou mais de uma hora e a comida chegou fria.
+2026-11-03;10233;Salão;4;Atendimento excelente, garçom atencioso. Só achei a sobremesa um pouco doce.
+2026-11-03;10234;Rappi;1;Pedido errado, veio frango no lugar de carne e faltou o refrigerante.
+2026-11-04;10235;iFood;3;Comida ok, entrega normal.
+2026-11-04;10236;iFood;2;Atrasou 50 minutos e o hambúrguer chegou morno.
+2026-11-04;10237;Salão;5;Ambiente agradável, prato bem temperado e porção generosa. Voltarei.
+2026-11-04;10238;WhatsApp;1;O app travou na hora de pagar e o cupom não funcionou.
+2026-11-05;10239;iFood;2;A embalagem vazou o molho e sujou toda a sacola.
+2026-11-05;10240;Rappi;4;Lanche gostoso, mas a batata veio murcha.
+2026-11-05;10241;iFood;1;Achei um cabelo no prato. Experiência horrível, não recomendo.
+2026-11-05;10242;Salão;5;Melhor feijoada da região, impecável!
+2026-11-06;10243;iFood;2;Entrega atrasada de novo. Pedi às 20h e chegou às 21h30.
+2026-11-06;10244;iFood;3;Preço justo, mas a carne estava um pouco seca.
+2026-11-06;10245;Rappi;5;Chegou rápido e a cerveja veio gelada. Perfeito para o jogo.
+2026-11-06;10246;WhatsApp;2;Caro demais para o tamanho da porção.
+2026-11-07;10247;iFood;1;Demorou demais, a pizza chegou fria e borrachuda.
+2026-11-07;10248;Salão;4;Bem atendido, comida boa. O som estava alto.
+2026-11-07;10249;iFood;;
+2026-11-07;10250;iFood;5;Adorei! Tudo caprichado e bem embalado.
+2026-11-08;10251;Rappi;2;O refrigerante veio quente e o lanche sem sal.
+2026-11-08;10252;iFood;3;Nada de especial. Comi e pronto.
+2026-11-08;10253;Salão;1;Garçom foi mal educado quando pedi para trocar o prato.
+2026-11-08;10254;iFood;4;Pizza barata e gostosa, ótimo custo-benefício.
+2026-11-09;10255;iFood;2;Demorou 1h20. Quando chegou a comida estava fria.
+2026-11-09;10256;WhatsApp;5;Atendimento pelo WhatsApp super rápido e simpático.
+2026-11-09;10257;iFood;2;Faltou o molho e a sobremesa que eu paguei.
+2026-11-09;10258;Rappi;3;Não foi ruim, mas já comi melhor aqui.
+2026-11-10;10259;iFood;1;Pedi às 19h e chegou às 21h. Parabéns, hein.
+2026-11-10;10260;Salão;5;Comida excelente, no ponto, e a sobremesa estava deliciosa.
+2026-11-10;10261;iFood;2;Atraso enorme e o entregador nem pediu desculpas.
+2026-11-10;10262;iFood;4;Gostei muito do sushi, peixe fresco.
+2026-11-11;10263;Rappi;2;A marmita veio amassada e o arroz frio.
+2026-11-11;10264;iFood;3;Entrega no horário, comida sem graça.
+2026-11-11;10265;Salão;5;Fomos muito bem atendidos, voltaremos com certeza.
+2026-11-11;10266;iFood;1;Esperei duas horas e cancelaram meu pedido sem avisar.
